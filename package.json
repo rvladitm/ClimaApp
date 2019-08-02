@@ -1,0 +1,15 @@
+{
+    "name": "clima_app",
+    "version": "1.0.0",
+    "description": "Aplicación de Clima",
+    "main": "clima.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Rodrigo Vladimir Tapia Muñoz",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.19.0",
+        "yargs": "^13.3.0"
+    }
+}
